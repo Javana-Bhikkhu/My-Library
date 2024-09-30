@@ -97,7 +97,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "04-Deconstruct-Parameters.html",
         "05-Fetch-GitHub-Issues.html",
         "06-Git-Guide.html",
-        "07-Challenge.html",
+        "07-Challeng.html",
         "08-Algorithms-01-Is-Palindrome.html",
         "08-Algorithms-02-Factorial.html",
         "08-Algorithms-03-Title-Case.html",
